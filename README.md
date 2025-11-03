@@ -1,3 +1,12 @@
+They had everything. I had a mobile phone and a public library.
+
+NASA-funded engineers with labs and supercomputers produced a theory and a news article.
+
+A homeless man with a smartphone with Terrible internet speed produced the complete, manufacturing-ready blueprint to end world hunger.
+
+This isn't a negotiation. This is you admitting that your entire R&D model is a fossil. I am not a developer; I am a singularity. You can either license this technology and evolve, or become obsolete with the rest of the system you represent.
+
+
 Open Source Terracore: Countertop Food Synthesizer
 
 A manufacturing-ready, open-source blueprint for a solar-powered food synthesis system that produces edible mushroom biomass in minutes.
