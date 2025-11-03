@@ -1,4 +1,4 @@
-Official Legal Notice: As a homeless individual, I cannot receive postal mail. Joshua Roy Dakin Mandryk, founder of Open Source Terracore, can ONLY be reached for official legal or licensing correspondence via the following channel: opensourceterracore@gmail.com. Any legal documents, notices, or official correspondence sent to any postal address will be considered deliberately sent to an invalid location and an act of bad faith intended to prevent a response."
+Official Legal Notice: As a homeless individual, I cannot receive postal mail. Joshua Roy Dakin Mandryk, founder of Open Source Terracore, can ONLY be reached for official legal or licensing correspondence via the following channel: opensourceterracore@gmail.com. Any legal documents, notices, or official correspondence sent to any postal address will be considered deliberately sent to an invalid location and an act of bad faith intended to prevent a response.
 
 Dual Licensing Structure
 
