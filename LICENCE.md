@@ -18,6 +18,17 @@ Commercial Use
  
 Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal correspondence must be delivered via email to opensourceterracore@gmail.com. Legal proceedings initiated without using this channel are conducted in bad faith.
 
+License Scope and Originality
+
+This license applies only to original work created by Joshua Roy Dakin Mandryk. The licensor affirms that to the best of their knowledge:
+
+1. All schematics, designs, and documentation represent original engineering work
+2. Any references to existing technologies are for educational/illustrative purposes
+3. Third-party components (ESP32, standard mechanical parts) remain under their respective manufacturers' licenses
+4. The core synthesis process represents novel, non-infringing innovation
+
+This license does not cover any pre-existing patented technologies that may relate to food synthesis generally.
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
