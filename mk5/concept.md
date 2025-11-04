@@ -71,8 +71,6 @@ The plausibility lies in the model's inherent strengths, which are a perfect fit
 * **Trust and Transparency:** The open-source nature of the project would build immediate public trust. There's no hidden formula, no proprietary secrets. The entire blueprint—from the genetic code of the fungal strains to the AI algorithms—is transparent and auditable. This transparency is crucial for public adoption of a technology that directly affects human health.
 * **Attracting Top Talent:** An open-source, non-profit model attracts passionate individuals—scientists, engineers, and ethicists—who are motivated by a shared purpose rather than a paycheck. This volunteer-driven workforce can be a powerful engine for innovation, as seen with real-world initiatives like the Open Source Pharma Foundation and Open Source Drug Discovery.
 
----
-
 ### **The Key Challenges and How to Overcome Them**
 
 While the open-source model is an excellent framework for development, it poses significant, life-critical challenges that must be addressed.
@@ -89,8 +87,6 @@ While the open-source model is an excellent framework for development, it poses 
 In summary, an open-source business model is not just plausible but necessary for the Mk5 to succeed. However, it requires a unique, symbiotic relationship with a partner like Fonzcorp to handle the critical, non-negotiable issues of safety, regulation, and liability.
 
 Developing a prototype of the Mk5 Bio-Synthesizer in a lab setting requires a blend of standard biology and chemistry equipment with specialized components for synthesis and automation. The goal is to create a controlled, sterile, and repeatable environment for testing.
-
----
 
 ### **1. Core Mycology & Bio-Synthesis Materials**
 
@@ -116,8 +112,6 @@ This equipment is for the "smart" aspect of the Mk5, allowing for real-time moni
     * **Optical density sensor** or **spectrophotometer** to measure the growth of the fungal culture.
 * **Pumps & Actuators:** Small, programmable **peristaltic pumps** are needed to precisely add nutrients or other liquids to the bioreactor.
 * **UI/UX Components:** For the diagnostic interface, a **small touchscreen or LCD screen** is necessary to display data and allow user interaction.
-
----
 
 ### **3. General Lab Equipment**
 
