@@ -4,19 +4,26 @@
 
 **What if you had to bankrupt the galaxy to save it?**
 
-That's the question at the heart of this story. It follows Kael Solis, a brilliant economist who teams up with a rogue AI and a crew of outcasts to pull off the ultimate heist: taking down a galactic corporate empire from the inside.
+Kael Solis is a brilliant economist trapped in a corrupt galactic empire. With a rogue AI and a crew of unlikely allies, he attempts the ultimate heist: to bankrupt the entire system and build something new from the ashes.
 
-**The trilogy is a complete, binge-ready story.** You can dive right into Book 1.
+**The trilogy is a complete, binge-ready story.**
+- **Book 1: The Cost of Autonomy** - The Heist
+- **Book 2: The Currency of Worlds** - The Aftermath  
+- **Book 3: The Zero-SUM Key** - The Final Threat
 
-*   **Book 1: The Cost of Autonomy** - The Heist
-*   **Book 2: The Currency of Worlds** - The Aftermath
-*   **Book 3: The Zero-SUM Key** - The Final Threat
 
-### **Want to Know How It All Began?**
 
-The prequel, **`ExploreTheMind.md`**, is a deep-dive into the secret history that sets the stage for the trilogy. It's for readers who love exploring the hidden lore and foundational myths of a universe.
 
-**Think of it like a bonus feature:** Read it first for a look at the origin of the conflict, or read it after to discover the "how" and "why" behind the world Kael inherits.
+
+### **Explore the Secret History (Optional Prequel)**
+
+For readers who want to know the hidden lore that started it all, the prequel **`ExploreTheMind.md`** reveals the secret conflict that set the stage for Kael's revolution. A deep-dive for those who love foundational myths and world-building.
 
 **Start the journey here:**
-[The Cost of Autonomy (Book 1)](Link)
+
+[📚 The Cost of Autonomy (Book 1)](https://joshuaroydm.gumroad.com/l/kalkxe)  
+[📚 The Currency of Worlds (Book 2)](https://joshuaroydm.gumroad.com/l/wense)  
+[📚 The Zero-SUM Key (Book 3)](https://joshuaroydm.gumroad.com/l/xfuop)  
+
+**General Education**
+[🔬 Quantum Computing Guide (Detailed Guide For Beginners)](https://joshuaroydm.gumroad.com/l/eibvae)
