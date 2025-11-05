@@ -26,4 +26,5 @@ For readers who want to know the hidden lore that started it all, the prequel **
 [📚 The Zero-SUM Key (Book 3)](https://joshuaroydm.gumroad.com/l/xfuop)  
 
 **General Education**
+
 [🔬 Quantum Computing Guide (Detailed Guide For Beginners)](https://joshuaroydm.gumroad.com/l/eibvae)
