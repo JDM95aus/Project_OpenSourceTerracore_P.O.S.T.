@@ -1,4 +1,4 @@
-# The Solis Trilogy
+# The Series That Lead To The Inventions
 
 ### A space opera trilogy about the cost of building a better world.
 
