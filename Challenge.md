@@ -1,6 +1,6 @@
 # A Strategic Offer
 
-The TerraCore TC-1 blueprint is publicly available here as a proof of capability and a gift to the open-source community.
+The P.O.S.T. TC-1 blueprint is publicly available here as a proof of capability and a gift to the open-source community.
 
 My work on its successor systems is paused. The principles involved are foundational and require a secure, collaborative R&D environment to be developed responsibly.
 
