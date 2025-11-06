@@ -20,6 +20,9 @@ Dive into the full story of revolution, sacrifice, and the cost of building a ne
 Kael Solis is a brilliant economist trapped in a corrupt galactic empire. His only ally is Seven—a mysterious, century-old consciousness who sacrificed her body to become the living memory of a forgotten truth. Together with a crew of unlikely allies, they attempt the ultimate heist: to bankrupt the entire system and build something new from the ashes.
 
 **The trilogy is a complete, binge-ready story.**
+
+
+- [Prequel to Tearing-it-Down (Free Copy - Read Before Trilogy)](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/ExploreTheMind/Prequel_to_Tearing-it-Down.md)
 - **Book 1: The Cost of Autonomy** - The Heist
 - [📚 The Cost of Autonomy (Book 1)](https://joshuaroydm.gumroad.com/l/kalkxe)  
 - **Book 2: The Currency of Worlds** - The Aftermath
