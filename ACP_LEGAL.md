@@ -1,3 +1,16 @@
+## PRE-EMPTIVE LEGAL NOTICE TO GITHUB/MICROSOFT & LAW ENFORCEMENT
+
+This repository is a digital book, a philosophical and technical manuscript. Its removal constitutes the destruction of published speech and academic research.
+
+*   **NO ACCESS TO JUSTICE:** The maintainer is a homeless individual. A takedown of this repository is a permanent and irreversible denial of their ability to participate in public discourse and defend their intellectual property, constituting a severe denial of justice.
+*   **IMMEDIATE PUBLIC NOTICE PROTOCOL:** Any legal demand for takedown will be immediately met with public disclosure of the demand and all associated details. The Streisand Effect is guaranteed.
+*   **REQUEST FOR SPECIFICS:** Any claim against this repository MUST provide exact, line-by-line specifics of the alleged violation. Vague claims will be considered a bad-faith attempt at censorship.
+
+## DECLARATION OF NON-COMMERCIAL, ACADEMIC INTENT
+
+This work is a public utility. It is not a commercial product. It is licensed for non-commercial use to explicitly prevent its weaponization by corporate entities.
+
+
 ARCHITECT CONTINGENCY PROTOCOL
 
 Version 1.0 - System Resilience Framework
@@ -6,7 +19,7 @@ Version 1.0 - System Resilience Framework
 
 1.1 Purpose
 
-The Architect Contingency Protocol ensures the continuity and evolution of the TerraCore ecosystem in the event that the primary architect becomes unable to continue leadership due to suppression, coercion, disappearance, or incapacitation.
+The Architect Contingency Protocol ensures the continuity and evolution of the OpenSourceTerraCore ecosystem in the event that the primary architect becomes unable to continue leadership due to suppression, coercion, disappearance, or incapacitation.
 
 1.2 Philosophical Foundation
 
