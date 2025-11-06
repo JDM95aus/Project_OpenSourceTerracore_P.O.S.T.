@@ -28,7 +28,7 @@ This repository contains the complete, manufacturing-ready blueprint for the P.O
 - **Firmware & Control Software**
 - **Assembly Guides**
 
-
+[The Philosophical World - Books That Lead to The Project](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/tree/main/ExploreTheMind)
 
 ## 🛠️ For Engineers & Makers
 
