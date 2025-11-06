@@ -31,11 +31,7 @@ Kael Solis is a brilliant economist trapped in a corrupt galactic empire. His on
 - [📚 The Zero-SUM Key (Book 3)](https://joshuaroydm.gumroad.com/l/xfuop) 
 
 
-### **Explore the Secret History (Optional Prequel)**
 
-For readers who want to know the hidden lore that started it all, the prequel **`ExploreTheMind.md`** reveals the secret conflict that set the stage for Kael's revolution. A deep-dive for those who love foundational myths and world-building.
-
- 
 
 **General Education**
 
