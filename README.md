@@ -8,8 +8,10 @@ Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food
 
 A future where life's essentials are not commodities, but accessible utilities. The TerraCore is a foundational step toward that future—a modular, open-hardware platform designed for local production and global resilience.
 
-## 🔧 The Technology [P.O.S.T.-FoodSynthesizer](./P_0_S_T_FoodSynthesizer.md)
-[Validation](./Validation.md)
+## 🔧 The Technology 
+[P.O.S.T.-FoodSynthesizer](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/P_O_S_T_FoodSynthesizer.md) - The complete architectural and operational specification.
+
+[Validation](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Validation.md) - The framework for testing, verifying, and certifying the system.
 
 The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
 
