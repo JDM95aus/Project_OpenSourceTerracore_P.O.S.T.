@@ -12,9 +12,9 @@ A future where life's essentials are not commodities, but accessible utilities. 
 
 The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
 
-- **🗲 Gasifier:** Converts biomass and waste plastics into usable syngas.
-- **🖨️ 3D Printer:** Uses the syngas and novel mycelium-based cartridges to print objects and structures.
-- **🍄 Biosynth Module:** Cultivates and processes mycelium for everything from construction materials to nutrient-rich biomass.
+- ** Gasifier:** Converts biomass and waste plastics into usable syngas.
+- ** 3D Printer:** Uses the syngas and novel mycelium-based cartridges to print objects and structures.
+- ** Biosynth Module:** Cultivates and processes mycelium for everything from construction materials to nutrient-rich biomass.
 
 This is not just a machine; it's a **new industrial paradigm**.
 
