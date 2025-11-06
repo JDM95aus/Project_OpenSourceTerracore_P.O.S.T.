@@ -4,16 +4,16 @@
 
 ### The Facts Are Simple
 
-# The blueprints to build a machine that turns trash into food are available right now, for free, in this repository.
+The blueprints to build a machine that turns trash into food are available right now, for free, in this repository.
 
 # This isn't a theory. It's a set of instructions. The P.O.S.T. Food Synthesizer works. It can end the technological 
 # scarcity of food.
 
 ## What This Means
 
-# For the first time in human history, widespread hunger no longer has a technological cause. It only has a human cause.
+For the first time in human history, widespread hunger no longer has a technological cause. It only has a human cause.
 
-# From this moment forward, every person who remains hungry is a victim of a choice. The choice is not being made by fate # or nature. It is being made by people in boardrooms, government offices, and institutions who see these blueprints and # decide not to act.
+From this moment forward, every person who remains hungry is a victim of a choice. The choice is not being made by fate or nature. It is being made by people in boardrooms, government offices, and institutions who see these blueprints and decide not to act.
 
 ## The New Question To Ask
 
