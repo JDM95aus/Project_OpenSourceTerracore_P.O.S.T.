@@ -24,15 +24,15 @@ The question is no longer "How do we solve world hunger?"
 
 "Why are you not building the solution?"
 
-*When a politician gives a speech about food security, ask them: "Why are you not funding the deployment of P.O.S.T.
-synthesizers?"*
+*When a politician gives a speech about food security, ask them: "Why are you not funding the deployment of Food
+Synthesizers?"*
 
 *When a charity runs an ad about famine, ask them: "Why are you not manufacturing these machines for the communities you serve?"*
 
 When a food corporation reports record profits, ask them: 
-*"Why are you not using your factories to build these instead # of products that rely on artificial scarcity?"*
+*"Why are you not using your factories to build these instead of products that rely on artificial scarcity?"*
 
-## This is Not a Protest. It is a Re-framing. many of the leaders, organisations and corporations need this necessary push. I agree that they should not need it, but it is a profoundly sad fact that without it, Greed will only multiply.
+This is Not a Protest. It is a Re-framing. many of the leaders, organisations and corporations need this necessary push. I agree that they should not need it, but it is a profoundly sad fact that without it, Greed will only multiply.
 
 # We are not asking for permission. We are building the future without them.
 
