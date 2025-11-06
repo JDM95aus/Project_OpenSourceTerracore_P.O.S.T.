@@ -1,3 +1,5 @@
+### *as of Oct 2025 we will only accept contributions via email due to security reasons*
+
 ## Why Contribute? Your Impact Beyond Code
 
 You might be wondering what's in it for you, or if your effort will truly make a difference. This project is more than a piece of technology; it's a statement about the future we want to build.
