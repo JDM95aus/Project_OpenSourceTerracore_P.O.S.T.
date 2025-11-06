@@ -25,7 +25,7 @@ This repository contains the complete, manufacturing-ready blueprint for the P.O
 - **Firmware & Control Software**
 - **Assembly Guides**
 
-Dive into the [`/docs`](./docs) folder to begin. The core system architecture is documented in [`/specs`](./specs).
+
 
 ## 🛠️ For Engineers & Makers
 
