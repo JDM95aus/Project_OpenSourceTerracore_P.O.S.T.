@@ -3,7 +3,7 @@
 
 # *⚠️ Humanitarian Technology & Legal Status Notice ⚠️*
 
-#This repository contains the complete, open-source blueprints for Project OpenSourceTerraCore (P.O.S.T.), a post-scarcity food synthesis system. This technology is explicitly developed and released as a public good for humanity to address global food scarcity.
+# This repository contains the complete, open-source blueprints for Project OpenSourceTerraCore (P.O.S.T.), a post-scarcity food synthesis system. This technology is explicitly developed and released as a public good for humanity to address global food scarcity.
 
 # · Legal Framework: This work is protected under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license for public use, with commercial licensing available to fund ongoing humanitarian development.
 # · Public Good Designation: The contents of this repository constitute a non-violent, humanitarian technological artifact. Its removal by a platform would represent the suppression of a public good.
