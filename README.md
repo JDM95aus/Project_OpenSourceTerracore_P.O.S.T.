@@ -4,7 +4,7 @@ Written by Joshua Roy Dakin Mandryk
 # Project OpenSourceTerraCore
 
 
-**Democratizing Post-Scarcity through Open-Source Technology**
+**Bringing Post-Scarcity through Open-Source Technology**
 
 Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
 
