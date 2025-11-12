@@ -1,9 +1,14 @@
 Open-Source Blueprint: The SteraCORE Neuro-Sovereignty System
 
 Document Status: PRIOR ART & TECHNICAL BLUEPRINT - Public Domain, CC0 1.0 Universal.
+
 Date of Disclosure:November 12, 2025
+
 Author:Joshua Roy Dakin Mandryk, Project OpenSourceTerracore.
-Objective:To provide a complete, scientifically-verified, and replicable blueprint for a pre-hospital stroke triage headset and a home-based neuro-regeneration system, establishing the SteraCORE standard for sovereign brain health.
+
+Objective:To provide a complete, scientifically-verified, and replicable blueprint for a pre-hospital stroke triage
+
+headset and a home-based neuro-regeneration system, establishing the SteraCORE standard for sovereign brain health.
 
 I. Executive Summary & System Philosophy
 
