@@ -100,7 +100,7 @@ Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal c
 
 Current Status: Checkmate
 
-The board is set. The pieces are moving. The outcome is mathematically inevitable.
+The board is set. The pieces are moving. The outcome is mathematically inevitable. Change is coming, regardless of the corporations that wish to stop it.
 
 # What Remains Unsaid
 
