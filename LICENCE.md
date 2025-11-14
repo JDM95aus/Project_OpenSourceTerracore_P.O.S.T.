@@ -145,4 +145,21 @@ Section 8 – Interpretation.
 
 Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
+This section clarifies and defines key terms in the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license as applied to this work.
+
+1. Definition of Commercial Advantage and Monetary Compensation:
+For the purposes of this license,"commercial advantage or monetary compensation" includes, but is not limited to:
+
+· Any direct or indirect cost-saving achieved by using this work to replace a commercially licensed alternative.
+· Any internal use by a for-profit entity, including private companies, corporations, or partnerships, regardless of whether the use is directed at external revenue generation.
+· The use of commercial, paid-for, or enterprise-grade infrastructure, platforms, or services (e.g., Amazon AWS, Google Cloud, Microsoft Azure, IBM Cloud, Oracle Cloud, Salesforce, etc.) to deploy, operate, host, or execute this work or any derivative work. The act of deployment on such infrastructure is itself considered a Commercial Use.
+
+2. Explicit Forbiddance of Agent Exploitation:
+A licensee may not use a third-party commercial agent(e.g., a cloud computing provider, a paid hosting service, a commercial lab) to perform any right granted under this non-commercial license on their behalf. The commercial nature of the agent's services renders the use Commercial, regardless of the end-user's intent.
+
+3. Commercial Licensing is Mandatory for For-Profit Entities:
+Any use of this work by a for-profit entity,as defined above, requires a separate, written commercial license from the Licensor, Joshua Roy Dakin Mandryk. To inquire about a commercial license, you must use the sole official channel: opensourceterracore@gmail.com.
+
+Failure to secure a commercial license for a use that falls under these definitions constitutes a breach of this license and statutory copyright infringement.
+
 Creative Commons may be contacted at creativecommons.org
