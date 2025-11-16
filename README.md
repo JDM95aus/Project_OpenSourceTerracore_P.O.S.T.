@@ -144,6 +144,6 @@ The ball is in your court. The clock is ticking. The world is watching.
 We're not asking permission. We're giving notice.
 
 # *The old system's agents show up, tools in hand, ready to engage in their game of extraction and transaction....... only to find there's nothing to extract, As the very concept of a "transaction" is meaningless here. All they can do is either walk away confused, or—in a moment of startling clarity—drop the tools and contribute something real.*
-# — *Joshua Roy Dakin Mandryk* 
-# Systems Architect
+— *Joshua Roy Dakin Mandryk* 
+Systems Architect
 
