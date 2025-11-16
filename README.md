@@ -11,7 +11,7 @@ Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food
 
 ## 🚀 The Vision
 
-A future where life's essentials are not commodities, but accessible utilities. The TerraCore is a foundational step toward that future—a modular, open-hardware platform designed for local production and global resilience.
+A future where life's essentials are not commodities, but accessible utilities. (P.O.S.T) is a foundational step toward that future—a modular, open-hardware platform designed for local production and global resilience.
 
 ## 🔧 The Technology 
 [Food Synthesizer](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/P_O_S_T_FoodSynthesizer.md) - The complete architectural and operational specification.
@@ -77,11 +77,6 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 **[Hot Climate Oyster Mushroom Cultivation Guide](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Free-to-use_designs/Hot_Climate_Cultivation.md)**
 
-
-
-
-
-
 # *⚠️ Humanitarian Technology & Legal Status Notice ⚠️*
 
 This repository contains the complete, open-source blueprints for Project OpenSourceTerraCore (P.O.S.T.), a post-scarcity food synthesis system. This technology is explicitly developed and released as a public good for humanity to address global food scarcity.
@@ -92,10 +87,7 @@ This repository contains the complete, open-source blueprints for Project OpenSo
 
 This repository serves as a primary distribution node. The network is the repository.
 
-
 Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal correspondence must be delivered via email to opensourceterracore@gmail.com. Legal proceedings initiated without using this channel are conducted in bad faith.
-
-
 
 # THE ARCHITECT'S POSITION
 
