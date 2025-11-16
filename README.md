@@ -60,7 +60,7 @@ This project lives and dies by its community. We need:
 
 This work is dual-licensed:
 - **Open Source:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) for personal, educational, and humanitarian use.
-- **Commercial:** Available for negotiation to prevent proprietary lock-in of this foundational technology.
+- **Commercial:** Available for negotiation to prevent proprietary lock-in of this foundational technology. Payment will fund this project further and allow you to plant your companies or personal name into the history books as the first to actually contribute to a better future for all!
 
 
 ## **An Invitation to Builders**
