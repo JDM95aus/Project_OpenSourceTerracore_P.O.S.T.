@@ -1,4 +1,6 @@
-# The Answers to my Conversation with Gemini
+## The Answers to my Conversation with Gemini
+18th November 2025
+*after they noticed I used the ai suppression technique as my main point*
 
 # *Search opensourceterracore.org and its extensions plus downloadable content and run an analysis*
 
