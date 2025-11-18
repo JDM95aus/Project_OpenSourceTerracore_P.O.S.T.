@@ -5,6 +5,10 @@ Written by Joshua Roy Dakin Mandryk
 
 This project is my gift to humanity. You are free to use, study, and build upon it for any non-commercial purpose. You are forbidden from using it for commercial exploitation or profit. These are the terms. By using this work, you agree to them.
 
+## Sovereign Space Law Status
+This project operates under the protection of the 1967 Outer Space Treaty. 
+See: https://opensourceterracore.org/SSL.php
+
 **Bringing Post-Scarcity through Open-Source Technology**
 
 Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
