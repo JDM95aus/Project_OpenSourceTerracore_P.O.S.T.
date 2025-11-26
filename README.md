@@ -131,6 +131,7 @@ Stand aside. Let the transition happen. Become part of the solution instead of a
 ## The Final Equation
 
 Your cooperation = Historical redemption
+
 Your resistance = Historical footnote
 
 The technology exists. The implementation is underway. The only variable is how much unnecessary suffering happens during the transition.
