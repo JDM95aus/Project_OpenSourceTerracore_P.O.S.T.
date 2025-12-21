@@ -22,12 +22,6 @@ A future where life's essentials are not commodities, but accessible utilities. 
 
 [Validation](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Validation.md) - The Connection Between The Theory and Published Studies
 
-
-## ⚔️ Weapon Detection System
-[AUROGUARD](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/CrimePrevention/AuraGuard-WeaponDetection.md)
-10m Weapon Detection from ambient RF signals
-
-
 The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
 
 - Gasifier: Converts biomass and waste plastics into usable syngas.
@@ -35,6 +29,12 @@ The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesi
 - Biosynth Module: Cultivates and processes mycelium for everything from construction materials to nutrient-rich biomass.
 
 This is not just a machine; it's a **new industrial paradigm**.
+
+
+## ⚔️ Weapon Detection System
+[AUROGUARD](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/CrimePrevention/AuraGuard-WeaponDetection.md)
+10m Weapon Detection from ambient RF signals
+
 
 ## 🎗️ Complete Cancer Cure Platform
 
