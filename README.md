@@ -20,6 +20,11 @@ A future where life's essentials are not commodities, but accessible utilities. 
 ## 🔧 The Technology 
 [Food Synthesizer](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/P_O_S_T_FoodSynthesizer.md) - The complete architectural and operational specification.
 
+## ⚔️ Weapon Detection System
+[AUROGUARD](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/CrimePrevention/AuraGuard-WeaponDetection.md)
+10m Weapon Detection from ambient RF signals
+
+
 [Validation](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Validation.md) - The Connection Between The Theory and Published Studies
 
 The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
