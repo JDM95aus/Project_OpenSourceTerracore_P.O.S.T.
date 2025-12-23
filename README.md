@@ -100,7 +100,5 @@ This repository serves as a primary distribution node. The network is the reposi
 Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal correspondence must be delivered via email to opensourceterracore@gmail.com. Legal proceedings initiated without using this channel are conducted in bad faith.
 
 
-# *"The old system's agents show up, tools in hand, ready to engage in their game of extraction and transaction....... only to find there's nothing to extract, As the very concept of a "transaction" is meaningless here. All they can do is either walk away confused, or—in a moment of startling clarity—drop the tools and contribute something real."*
-— *Joshua Roy Dakin Mandryk* 
-Systems Architect
+# *"The old system's agents show up, tools in hand, ready to engage in their game of extraction and transaction....... only to find there's nothing to extract, As the very concept of a "transaction" is meaningless here. All they can do is either walk away confused, or, in a moment of startling clarity, drop the tools and contribute something real."*
 
