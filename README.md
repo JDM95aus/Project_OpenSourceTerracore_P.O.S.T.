@@ -1,11 +1,11 @@
-
-
 # *"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage."* 
 Written by Joshua Roy Dakin Mandryk
  
 # Project OpenSourceTerraCore
 
 This project is my gift to humanity. You are free to use, study, and build upon it for any non-commercial purpose. You are forbidden from using it for commercial exploitation or profit. These are the terms. By using this work, you agree to them.
+
+# Simplified explenation of the entire project [50 page booklet](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/SimpleBreakDown.md)
 
 ## Sovereign Space Law Status
 This project operates under the protection of the 1967 Outer Space Treaty. 
