@@ -14,10 +14,8 @@ See: https://opensourceterracore.org/SSL.php
 **Bringing Post-Scarcity through Open-Source Technology**
 
 Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
-## 👀 Index
-[Full_Index](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/Full_Index.md)
+## 👀 [Full_Index](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/Full_Index.md)
 
-https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/Full_Index.md
 
 ## 🚀 The Vision
 
