@@ -8,7 +8,7 @@
 ## TECHNOLOGIES
 
 ### AQUACORE
-/
+main page
 
 ### TERRA-CORE
 /housingcrisis/
@@ -20,48 +20,49 @@
 /mk7/
 
 ### BenchtopFoodSynthesizer
-/
+main page
 
 ### AuraGuard PRFDS
 /crimeprevention/
 
 ### Hot_Climate_Cultivation
+/Free-to-use_designs/
 
 ### ATHEROCORE
-/medical/
+/medical/.md
 
 ### STERACORE
-/medical/
+/medical/.md
 
 ### HAEMOCORE
-/medical/cancer/
+/medical/cancer/.md
 
 ### PancreaCORE
-/medical/cancer/
+/medical/cancer/.md
 
 ### UNICORE
-/medical/cancer/
+/medical/cancer/.md
 
 ### Malaria-Core
-/pharmaceutical/
+/pharmaceutical/.md
 
 ### BIO-SYNTHESIZER
-/mk5/
+mk5
 
 ### MarburgOutbreak response
-/
+mainpage/medical/cancer/UNICORE
 
 ### OXYCORE
-/
+main page/folder
 
 ### PYROCORE
-/ & /mk4/
+main page & mk4
 
 ### EAGS
-/
+main page/.md
 
 ### MYCOFORGE_HERMETIC_SYNTHESIZER
-/
+main page/.md
 
 ### CLOACORE
 /futuretech/
