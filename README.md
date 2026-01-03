@@ -5,7 +5,7 @@ Written by Joshua Roy Dakin Mandryk
 
 This project is my gift to humanity. You are free to use, study, and build upon it for any non-commercial purpose. You are forbidden from using it for commercial exploitation or profit. These are the terms. By using this work, you agree to them.
 
-# Simplified explenation of the entire project [50 page booklet](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/SimpleBreakDown.md)
+# Simplified introduction to the entire project [50 page booklet](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/SimpleBreakDown.md)
 
 ## Sovereign Space Law Status
 This project operates under the protection of the 1967 Outer Space Treaty. 
