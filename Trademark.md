@@ -4,11 +4,11 @@
 
 The name **OpenSourceTerraCore™** and associated logos (collectively, the "OpenSourceTerraCore Marks") are trademarks used to identify the open-source solar food synthesis project and its associated goods, services, and community.
 
-This policy outlines how you may and may not use the TerraCore Marks. The goal is to protect the integrity of the project while encouraging community participation and adoption.
+This policy outlines how you may and may not use the OpenSourceTerraCore Marks. The goal is to protect the integrity of the project while encouraging community participation and adoption.
 
 ## ✅ Permitted Uses (You Can Do This)
 
-You are encouraged to use the TerraCore Marks in the following ways:
+You are encouraged to use the OpenSourceTerraCore Marks in the following ways:
 
 ### 1. **Non-Commercial Referencing**
 - Refer to the project by name in discussions, articles, and presentations
@@ -22,19 +22,19 @@ You are encouraged to use the TerraCore Marks in the following ways:
 
 ### 3. **Personal Projects**
 - Build your own devices based on the open-source TerraCore™ designs
-- Refer to your personal build as "based on TerraCore™" or "TerraCore™-compatible"
+- Refer to your personal build as "based on OpenSourceTerraCore™" or "OpenSourceTerraCore™-compatible"
 - Share your modifications and improvements with the community
 
 ## ❌ Restricted Uses (Do Not Do This Without Permission)
 
 ### 1. **Commercial Use**
-- You may **not** use "TerraCore" as the primary brand name for your own commercial products or services
-- You may **not** create and sell "TerraCore" branded kits or devices without explicit permission
+- You may **not** use "OpenSourceTerraCore" as the primary brand name for your own commercial products or services
+- You may **not** create and sell "OpenSourceTerraCore" branded kits or devices without explicit permission
 - You may **not** use the name in a way that suggests official endorsement or partnership
 
 ### 2. **Confusing or Misleading Uses**
 - You may **not** use the name in a way that suggests you are the original creator
-- You may **not** create domain names that could be confused with the official project (e.g., terracore-official.com, buy-terracore.net)
+- You may **not** create domain names that could be confused with the official project (e.g., OpenSourceterracore-official.com, buy-OpenSourceterracore.net)
 - You may **not** alter the logo or create derivative logos for your own use
 
 ### 3. **Illegal or Harmful Activities**
@@ -43,7 +43,7 @@ You are encouraged to use the TerraCore Marks in the following ways:
 
 ## 🔧 For Commercial Inquiries
 
-If you're interested in commercial use of the TerraCore Marks, please:
+If you're interested in commercial use of the OpenSourceTerraCore Marks, please:
 1. Open an issue in this repository with the subject "Commercial Trademark Inquiry"
 2. Describe your proposed use case and business model
 3. Explain how your use will benefit the TerraCore community
@@ -60,7 +60,7 @@ When using the OpenSourceTerraCore name, please:
 
 ## ⚖️ Enforcement
 
-We prefer to resolve issues through community dialogue. However, we will take appropriate action to protect the TerraCore Marks from misuse that could harm the project or confuse users.
+We prefer to resolve issues through community dialogue. However, we will take appropriate action to protect the OpenSourceTerraCore Marks from misuse that could harm the project or confuse users.
 
 ## 📞 Contact
 
@@ -70,8 +70,8 @@ For trademark questions or permission requests:
 
 ---
 
-*This policy is part of the TerraCore™ project. Last updated: 23-SEP-2025*  
-*This document is licensed under CC BY 4.0. The TerraCore™ name and logo are trademarks.*
+*This policy is part of the OpenSourceTerraCore™ project. Last updated: 23-SEP-2025*  
+*This document is licensed under CC BY 4.0. The OpenSourceTerraCore™ name and logo are trademarks.*
 
 <p>TerraCore™ is a trademark used under common law for the open-source solar food synthesis project. 
 Unauthorized commercial use prohibited. See <a href="Trademark.md">Trademark Policy</a>.</p>
