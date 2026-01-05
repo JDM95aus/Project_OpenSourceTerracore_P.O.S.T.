@@ -25,4 +25,4 @@ This is an official notice that the peripheral infrastructure for the Open Sourc
 The work continues. Security through obscurity is rejected. Security through transparency and sovereignty is affirmed.
 
 Signed,
-[Your Name/Handle]
+JOSHUA RDM
