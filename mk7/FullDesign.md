@@ -63,8 +63,8 @@ Chassis & Armor:
 Monocoque Frame:
 - Material: Carbon nanotube-reinforced graphene composite
 - Tensile Strength: 180 GPa (vs 0.4 GPa for steel)
-- Weight: 850kg for complete chassis
-- Thermal Stability: -200°C to 1200°C operational range
+- Weight: 850kg-900kg for complete chassis
+- Thermal Stability: -190°C to 1100°C operational range
 
 Active Protection Systems:
 - Electromagnetic Armor: Capacitive discharge against projectiles
@@ -224,7 +224,7 @@ Phase 3 (36 months):
 
 STRATEGIC IMPACT
 
-The Mk7 TerraMobile represents the ultimate escalation - a platform that cannot be stopped, cannot be starved, and cannot be reasoned with except on its own terms. It transforms Terracore from a defensive survival technology into an unstoppable humanitarian force.
+The Mk7 TerraMobile represents the ultimate escalation - a platform that cannot be stopped, cannot be starved, and cannot be reasoned with except on its own terms. It transforms OpenSourceTerracore Systems from a defensive survival technology into an unstoppable humanitarian force.
 
 When combined with the full Mk1-Mk6 ecosystem, the Mk7 creates:
 
