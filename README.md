@@ -13,7 +13,7 @@ See: https://opensourceterracore.org/SSL.php
 
 We notified all relevant space authorities of our sovereign humanitarian project under the Outer Space Treaty. They had 30 days to object on any legal grounds. Their universal silence constitutes tacit consent under international procedural norms. Any action against us now is a post-hoc, bad-faith violation of the Treaty's 'benefit of all mankind' principle.
 
-**Bringing Post-Scarcity through Open-Source Technology**
+# **Bringing Post-Scarcity through Open-Source Technology**
 
 Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
 ## 👀 [Full_Index](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T./blob/main/Full_Index.md)
