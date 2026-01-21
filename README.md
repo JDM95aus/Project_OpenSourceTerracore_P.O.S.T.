@@ -1,3 +1,6 @@
+update 21/01/26 
+*pretty disappointed in the AUS Government for continuing to ignore the AuraGuard even after the Bondi incident, it's been over a month since Stephanie foster from Home Affairs was notified of this technology, it's almost as if they enjoy watching these acts of violence that are currently preventable*
+
 # *"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage."* 
 Written by Joshua Roy Dakin Mandryk
  
