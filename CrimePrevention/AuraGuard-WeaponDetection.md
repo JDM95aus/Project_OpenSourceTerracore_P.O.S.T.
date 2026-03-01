@@ -133,3 +133,127 @@ This represents another layer in the sovereignty stack - the right to safe space
 
 Joshua Roy Dakin Mandryk
 December 19, 2025
+
+---
+
+update march 1st
+
+PRIOR ART DISCLOSURE
+
+Title:
+Passive Radio Frequency Disturbance Detection for Aerial and Maritime Metallic Objects
+
+Inventor:
+Joshua Roy Dakin Mandryk
+Lead Architect, Project OpenSourceTerracore (P.O.S.T.)
+A.B.N. 80662917463
+Email: opensourceterracore@gmail.com
+
+Date of First Conception:
+December 2025
+
+Date of Public Disclosure:
+Continuous and ongoing via opensourceterracore.org and associated public communications since December 2025.
+
+
+Field of the Invention
+
+This invention relates to the passive detection of metallic objects—including drones, aircraft, ships, and stealth platforms—by monitoring disturbances in ambient radio frequency signals. The system requires no active transmission, making it inherently stealthy, cost-effective, and resistant to jamming or electronic countermeasures.
+
+Background
+
+Conventional detection systems such as radar, lidar, and acoustic sensors rely on active emission, rendering them detectable, jammable, and expensive to deploy and maintain. They are often ineffective against stealth designs, low-flying drones, or small vessels. Existing passive systems are typically narrow in scope and not designed for multi-domain, scalable deployment.
+
+AuraGuard, originally developed for local weapon detection, demonstrated that all metallic objects predictably disturb ambient radio frequency fields. This principle can be scaled to detect larger metallic objects over vast distances—including across oceans and through airspace—using existing ambient radio frequency sources and a network of passive sensors.
+
+
+Summary of the additional discovery.
+
+This invention extends the AuraGuard principle to create a global, passive detection network capable of identifying, tracking, and classifying metallic objects across air, sea, and land environments.
+
+Key elements include:
+
+· Passive sensing of ambient radio frequency disturbances caused by metallic objects.
+· Use of existing radio frequency sources such as broadcast towers, cellular networks, and satellites as illuminators.
+· Deployment of low-cost, off-the-shelf sensors on land, sea, air, and space platforms.
+· Centralized or distributed artificial intelligence to analyze disturbance patterns, filter noise, and classify objects.
+· Real-time tracking and threat assessment.
+· Open-source, decentralized architecture allowing community and international participation.
+· Immunity to stealth coatings or radar cross-section reduction, as metallic composition cannot hide from radio frequency disturbance.
+
+Technical Description
+
+Detection Mechanism
+
+All metallic objects interact with ambient radio frequency fields. This interaction creates measurable disturbances in signal strength, phase, or timing. Passive sensors detect these disturbances without emitting any signal.
+
+Sensor Deployment
+
+· Coastal and maritime sensors placed on buoys, ships, offshore platforms, and coastal structures detect vessels and low-flying drones.
+· Aerial and space-based sensors on satellites or high-altitude platforms detect aircraft, high-altitude drones, and orbital objects.
+· Land-based sensors, including existing AuraGuard nodes, can be networked to cover urban and rural areas.
+
+Signal Processing and Classification
+
+Raw radio frequency data is processed by artificial intelligence systems that:
+
+· Distinguish metallic disturbances from background noise and non-metallic interference.
+· Classify objects by size, movement patterns, and unique radio frequency signatures.
+· Track objects in real time across sensor networks.
+· Predict trajectories and assess potential threats.
+
+Integration
+
+The system can be integrated with existing defense, security, and civilian infrastructure. Applications include:
+
+· Early warning of drone incursions.
+· Maritime domain awareness.
+· Airspace monitoring.
+· Counter-stealth operations.
+· Border and critical infrastructure security.
+· Search and rescue support.
+
+Advantages Over Prior Art
+
+· Passive operation eliminates detectability and jamming vulnerability.
+· Stealth coatings and radar cross-section reduction do not affect detection.
+· Low cost enables widespread deployment.
+· Scalable from local to global coverage.
+· Multi-domain detection across air, sea, and land.
+· Decentralized architecture ensures no single point of failure.
+· Open-source design allows continuous improvement and adaptation.
+
+Claims
+
+1. A passive system for detecting metallic objects by monitoring disturbances in ambient radio frequency signals.
+2. The system of claim 1, wherein the objects detected include drones, aircraft, ships, submarines near the surface, and land vehicles.
+3. The system of claim 1, wherein sensors are deployed on land, sea, air, or space platforms.
+4. The system of claim 1, wherein the sensors require no active emission.
+5. The system of claim 1, wherein disturbances are analyzed by artificial intelligence to identify, classify, and track objects in real time.
+6. The system of claim 1, wherein the system operates using existing ambient radio frequency sources.
+7. The system of claim 1, wherein the system is open-source and decentralized.
+8. The system of claim 1, wherein the system detects objects regardless of radar stealth design.
+9. The system of claim 1, wherein the system provides early warning of potential threats.
+10. The system of claim 1, wherein the system can be integrated with existing security, defense, and civilian networks.
+
+Prior Art References
+
+· AuraGuard PRFDS (Original Concept) – Publicly disclosed December 2025.
+· Published research on passive radio frequency detection (citations available in project documentation).
+· Open-source hardware designs for radio frequency sensing (available via opensourceterracore.org).
+
+Public Disclosure Record
+
+All technical details, schematics, discussions, and correspondence related to this invention have been publicly available since December 2025.
+
+This disclosure establishes prior art and prevents patenting of this technology by third parties.
+
+Contact
+
+For inquiries, collaboration, or licensing:
+
+Joshua Roy Dakin Mandryk
+Email: opensourceterracore@gmail.com
+A.B.N. 80662917463
+
+---
