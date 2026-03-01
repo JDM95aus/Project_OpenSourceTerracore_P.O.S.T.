@@ -1,5 +1,6 @@
-update 21/01/26 
-*pretty disappointed in the AUS Government for continuing to ignore the AuraGuard even after the Bondi incident, it's been over a month since Stephanie foster from Home Affairs was notified of this technology, it's almost as if they enjoy watching these acts of violence that are currently preventable*
+update 01/03/26
+Opensourceterracore.org why does Australia ignore radio frequency weapon detection systems that can prevent terrorist attacks and even just all the stabbings we see? They prefer surveillance to security... I've contact countless mp's, the pmo, home affairs, afp. None of them are interested in life saving technology because it replaces surveillance, radiation and privacy invasive screening... radio frequencies get disturbance from metallic objects, it's not hard for a chip to differentiate a phone, keys or other common items, from knives, guns and explosives. The next terrorist attack is directly because of government inaction.
+also found a way for AuraGuard to increase detection range from 10m to intercontinental using satalites and bouys, the possibility of a global interconnected system is high with further research.
 
 # *"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage."* 
 Written by Joshua Roy Dakin Mandryk
