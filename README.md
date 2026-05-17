@@ -1,4 +1,4 @@
-
+##*Nothing is impossible, even in physics, every problem has a solution. it's simply a matter of finding it*
 
 # *"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage."* 
 Written by Joshua Roy Dakin Mandryk
